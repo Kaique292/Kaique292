@@ -41,6 +41,7 @@ I also run **Stackvision**, a small software studio where I build custom systems
 
 | Project | What it does |
 |---|---|
+| [SquadView](https://github.com/Kaique292/squadview) | Free, open source P2P screen sharing for gamers on Windows: stream your game to friends on a call in up to 1440p60, PC to PC with no media server, game-only audio and Discord login |
 | [react-native-android-mock-location](https://github.com/Kaique292/react-native-android-mock-location) | Module to mock the device location on Android, built for Expo / React Native |
 | [Salvaí](https://github.com/Kaique292/salvai) | Free, ad-free Windows app to download videos and music from YouTube, Instagram, TikTok, X and Facebook as MP4 or MP3, with a phone mode and a Claude (MCP) integration |
 
